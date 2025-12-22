@@ -1,3 +1,3 @@
 # my-twelveth-repo
 testing repo
-print("Hello, World!")
+prin("Hello, World!")
